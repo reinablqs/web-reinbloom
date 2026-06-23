@@ -1,0 +1,57 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.bg-ghostwhite{
+    background-color: #F8F8FF;
+}
+
+.bg-lavender{
+    background-color: #E6E6FA;
+}
+
+.text-indigo {
+    color: #4B0082;
+}
+
+
+.bg-lavenderblush{
+    background-color: #FFF0F5;
+}
+
+.btn-primary {
+    background-color: #bae1ff; 
+    border-color: #bae1ff;
+    color: #333333;
+}
+
+.btn-success {
+    background-color: #baffc9; 
+    border-color: #baffc9;
+    color: #333333;
+}
+
+.btn-warning {
+    background-color: #ffffba; 
+    border-color: #ffffba;
+    color: #333333;
+}
+
+.btn-danger {
+    background-color: #ffb3ba; 
+    border-color: #ffb3ba;
+    color: #333333;
+}
+
+.table-reinbloom th {
+    background-color: #bae1ff;
+    color: #333333;
+}
+
+.table-reinbloom tbody tr:nth-child(odd) {
+    background-color: #BAE1FF;
+}
+
+.table-reinbloom tbody tr:nth-child(even) {
+    background-color: #FFFFFF;
+}
